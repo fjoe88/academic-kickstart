@@ -65,14 +65,14 @@ user_groups:
 - Visitors
 ---
 
-My name is Zhou Fang (方舟) and I am a Data Analysis Engineer at Micron Fab 2 where I work on improving our semiconductor wafer fabrication yield through extracting insights from data wherever I can find them at. My first name is pronounced exactly the same as JOE hence I go by Joe as well. I enjoy using R for the many packages and the R community, and I dab with Python too for its Machine Learning libraries. I'm good at soccer, and supported Chelsea FC since when I was 10 (London is Blue!).
+My name is Zhou Fang (方舟) and I am a Data Analysis Engineer at Micron Fab 2 where I work on improving our semiconductor wafer yield and fabrication efficiency through extracting insights from data. My first name 舟 is pronounced exactly the same as Joe hence I go it as well. I love using the R language, enjoyed its many statistical and data munging packages, and the vibrant R community. I dab with Python too and its Machine Learning libraries. I love sports, primarily soccer, and have supported Chelsea FC since when I was 10 (London is Blue!).
 
-I studied Mechanical Engineering with concentration on Automotive in Turin, Italy where I had a wonderful time. I moved to the United States in 2011 and finished my MS in Mechanical Engineering at Columbia University in the city of New York, I had a great time there, too.
+I studied Automotive Engineering in Turin, Italy and thoroughly enjoyed my experience there. I moved to the United States in 2011 and finished my MS in Mechanical Engineering at Columbia University in the city of New York, I had a wonderful time there, too.
 
 I live in Lehi, UT, with my wife, and my golden retriever - Ollie.
 
 This blog is built with blogdown and Hugo, and deployed using Netlify.
 
-If my blog has helped you, you can buy me a coffee.
+If my blog has helped you, you can buy me a coffee!
 
 
